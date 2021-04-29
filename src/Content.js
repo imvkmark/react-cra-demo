@@ -9,15 +9,15 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo"/>
                 <Nav/>
                 <p>
-                    首页 , 本页面使用 CRA 构建
+                    本页面是路由跳转页面, 使用 ReactRouter 完成
                 </p>
                 <a
                     className="App-link"
-                    href="https://zh-hans.reactjs.org/docs/create-a-new-react-app.html"
+                    href="https://reactrouter.com/web/guides/quick-start"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn CRA
+                    Learn React Router
                 </a>
             </header>
         </div>
